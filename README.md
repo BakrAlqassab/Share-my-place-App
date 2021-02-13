@@ -10,7 +10,7 @@ and install node.js // is better to download ^v15.5.0 versions
 
 https://nodejs.org/en/
 
-npm rub build // To install used npm packages in  package.json file
+npm run build // To install used npm packages in  package.json file
 
 npm build:dev // To run the server 
 
